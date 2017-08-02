@@ -1,0 +1,22 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none
+}
+
+ul.important {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.best {
+  text-decoration: underline;
+}
+
+body {
+  text-align: center;
+}
